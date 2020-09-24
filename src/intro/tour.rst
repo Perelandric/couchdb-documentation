@@ -210,8 +210,8 @@ Your First Database and Document
 ================================
 
 Creating a database in Fauxton is simple. From the overview page,
-click "Create Database." When asked for a name, enter ``hello-world`` and click
-the Create button.
+click "Create Database." When asked for a name, enter ``hello-world``, choose 
+the ``Non-partitioned`` option and click the Create button.
 
 After your database has been created, Fauxton will display a list of all its
 documents. This list will start out empty, so let's
